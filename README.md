@@ -23,4 +23,10 @@ To install, on UNIX machines, ensure that you have Xlib, BLAS and LAPACK.
 
 **prec:** recovery rate.
 
+Example grapical output:
+
+<img src="https://github.com/jvrlag/confined_sir/blob/master/map3.png" alt="Screenshot" width="300">
+
+<img src="https://github.com/jvrlag/confined_sir/blob/master/map5.png" alt="Screenshot" width="300">
+
 
